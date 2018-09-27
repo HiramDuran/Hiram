@@ -1,0 +1,27 @@
+/*beginning of CSS file*/
+
+body {
+	background-color: lightgrey;
+}
+
+/* page elements will be within the margin and centered */
+
+header{
+	float:middle;
+}
+
+
+
+main{
+	width: 60%
+	margin: 0 auto;
+}
+
+p {
+	float: right;
+	width: 75%;
+}
+
+h1 h2 h3 h4 {
+	float: middle
+}
