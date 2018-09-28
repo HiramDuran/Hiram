@@ -1,1 +1,10 @@
 /*beginning of CSS file*/
+body {
+ background-color: whitesmoke; 
+}
+
+header {
+ text-align: center; 
+}  
+
+
