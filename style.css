@@ -8,9 +8,9 @@ header {
 }  
 
 img {
- float: left;
+ float: left; width: 20%;
 }
 
 article {
- float: right; text-align: center;
+ float: right; text-align: center; width: 79%
 }
