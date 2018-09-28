@@ -12,11 +12,11 @@ section {
 }
 
 img {
- float: left; width: 20%;
+ float: left; width: 10%;
 }
 
 article {
- float: right; text-align: center; width: 79%
+ float: right; text-align: center; width: 89%
 }
 
 footer {
