@@ -11,26 +11,10 @@ img {
  float: left; width: 20%;
 }
 
-article {
- float: right; text-align: center; width: 79%
-}
-
-.england {
- clear: both;
-}
-
-.france {
- clear: both;
-}
-
-.germany {
+section {
  clear:both;
 }
 
-.italy {
- clear: both;
-}
-
-.spain {
- clear: both;
+article {
+ float: right; text-align: center; width: 79%
 }
