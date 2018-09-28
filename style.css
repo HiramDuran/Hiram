@@ -7,4 +7,10 @@ header {
  text-align: center; 
 }  
 
+img {
+ float: left;
+}
 
+article {
+ float: right; text-align: center;
+}
