@@ -11,10 +11,6 @@ img {
  float: left; width: 20%;
 }
 
-section {
- clear:both;
-}
-
 article {
  float: right; text-align: center; width: 79%
 }
