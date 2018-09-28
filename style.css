@@ -7,23 +7,25 @@ body {
 /* page elements will be within the margin and centered */
 
 header{
-	float: middle;
+	float: center;
 }
 
 aside{
-	float:left
+	float: left;
 }
 
-main{
-	width: 60%
-	margin: 0 auto;
+h2 {
+	float: center;
+}
+
+h3 {
+	float: center;
+}
+
+h4 {
+	float: center;
 }
 
 p {
-	float: right;
-	width: 75%;
-}
-
-h1 h2 h3 h4 {
-	float: middle
+	float: center;
 }
