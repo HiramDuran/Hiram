@@ -1,6 +1,6 @@
 /*beginning of CSS file*/
 body {
- background-color: whitesmoke; 
+ background-color: whitesmoke; width: 70%; margin: 0 auto;
 }
 
 header {
