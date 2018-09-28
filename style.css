@@ -8,7 +8,7 @@ header {
 } 
 
 section {
- clear: both;
+ clear: both; border-style: solid; border-width: 1px;
 }
 
 img {
