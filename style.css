@@ -28,11 +28,11 @@ h3 {
 }
 
 h4 {
-text-align: center; text-justify: inter-word;
+text-align: center; width: 50%;
 }
 
 p {
- text-align: center; text-justify: inter-word;
+ text-align: center; width 80%;
 }
 
 footer {
