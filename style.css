@@ -7,10 +7,12 @@ body {
 /* page elements will be within the margin and centered */
 
 header{
-	float:middle;
+	float: middle;
 }
 
-
+aside{
+	float:left
+}
 
 main{
 	width: 60%
