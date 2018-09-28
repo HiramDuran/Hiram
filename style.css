@@ -14,3 +14,8 @@ img {
 article {
  float: right; text-align: center; width: 79%
 }
+
+footer {
+ clear: both;
+  text-align: center;
+}
