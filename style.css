@@ -19,8 +19,16 @@ article {
  float: right; text-align: justify; width: 89%;
 }
 
+h2 {
+ text-align: center;
+}
+
+h3 {
+ text-align: center;
+}
+
 h4 {
- text-align: center; text-align: justify; width: 50%;
+text-align: justify; width: 50%;
 }
 
 p {
